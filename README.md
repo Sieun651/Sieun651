@@ -27,6 +27,6 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sieun651)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qufgksk20)](https://solved.ac/qufgksk20/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qufgksk20)](https://solved.ac/qufgksk20/)
 
 </div>
